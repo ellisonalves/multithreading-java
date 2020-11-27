@@ -1,0 +1,277 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d57990f8-98a1-43b7-883f-363c9f7053fe" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ksZwbxNyf7e8mzZbrPFJgqGu1d" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="jdk.selected.JAVA_MODULE" value="11" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="synchronization" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.App (5)">
+    <configuration name="App (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
+      <module name="Threads10_Deadlock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
+      <module name="Threads11_Semaphores" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
+      <module name="Threads12_CallableAndFuture" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
+      <module name="Threads13_InterruptingThreads" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo.App" />
+      <module name="Threads3_Synchronized" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demo2.App" />
+      <module name="Threads1_Starting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demo2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App (5)" />
+        <item itemvalue="Application.App (5)" />
+        <item itemvalue="Application.App (4)" />
+        <item itemvalue="Application.App (3)" />
+        <item itemvalue="Application.App (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d57990f8-98a1-43b7-883f-363c9f7053fe" name="Default Changelist" comment="" />
+      <created>1606491500570</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606491500570</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="272" y="184" width="1406" height="697" key="#Project_Structure" timestamp="1606522202969">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="272" y="184" width="1406" height="697" key="#Project_Structure/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606522202969" />
+    <state x="2055" y="178" width="1298" height="697" key="#Project_Structure/72.27.3768.1053@72.27.3768.1053" timestamp="1606500829183" />
+    <state x="373" y="261" width="343" height="592" key="#com.intellij.ide.util.MemberChooser" timestamp="1606573475892">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="373" y="261" width="343" height="592" key="#com.intellij.ide.util.MemberChooser/0.27.1920.1053@0.27.1920.1053" timestamp="1606573475892" />
+    <state x="804" y="261" width="374" height="592" key="#com.intellij.ide.util.MemberChooser/72.27.3768.1053@72.27.3768.1053" timestamp="1606496921196" />
+    <state x="360" y="261" width="374" height="606" key="FileChooserDialogImpl" timestamp="1606578578620">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="360" y="261" width="374" height="606" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1606578578620" />
+    <state x="779" y="261" width="424" height="592" key="FileChooserDialogImpl/72.27.3768.1053@72.27.3768.1053" timestamp="1606493452361" />
+    <state width="1874" height="373" key="GridCell.Tab.0.bottom" timestamp="1606577004965">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="373" key="GridCell.Tab.0.bottom/0.27.1920.1053@0.27.1920.1053" timestamp="1606577004965" />
+    <state width="1874" height="491" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1802" height="363" key="GridCell.Tab.0.bottom/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606523576807" />
+    <state width="1802" height="363" key="GridCell.Tab.0.bottom/72.27.1848.1053@72.27.1848.1053" timestamp="1606565854843" />
+    <state width="1874" height="511" key="GridCell.Tab.0.bottom/72.27.3768.1053@72.27.3768.1053" timestamp="1606514890779" />
+    <state width="1874" height="373" key="GridCell.Tab.0.center" timestamp="1606577004965">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="373" key="GridCell.Tab.0.center/0.27.1920.1053@0.27.1920.1053" timestamp="1606577004965" />
+    <state width="1874" height="491" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1802" height="363" key="GridCell.Tab.0.center/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606523576807" />
+    <state width="1802" height="363" key="GridCell.Tab.0.center/72.27.1848.1053@72.27.1848.1053" timestamp="1606565854842" />
+    <state width="1874" height="511" key="GridCell.Tab.0.center/72.27.3768.1053@72.27.3768.1053" timestamp="1606514890778" />
+    <state width="1874" height="373" key="GridCell.Tab.0.left" timestamp="1606577004965">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="373" key="GridCell.Tab.0.left/0.27.1920.1053@0.27.1920.1053" timestamp="1606577004965" />
+    <state width="1874" height="491" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1802" height="363" key="GridCell.Tab.0.left/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606523576807" />
+    <state width="1802" height="363" key="GridCell.Tab.0.left/72.27.1848.1053@72.27.1848.1053" timestamp="1606565854842" />
+    <state width="1874" height="511" key="GridCell.Tab.0.left/72.27.3768.1053@72.27.3768.1053" timestamp="1606514890778" />
+    <state width="1874" height="373" key="GridCell.Tab.0.right" timestamp="1606577004965">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="1874" height="373" key="GridCell.Tab.0.right/0.27.1920.1053@0.27.1920.1053" timestamp="1606577004965" />
+    <state width="1874" height="491" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1802" height="363" key="GridCell.Tab.0.right/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606523576807" />
+    <state width="1802" height="363" key="GridCell.Tab.0.right/72.27.1848.1053@72.27.1848.1053" timestamp="1606565854843" />
+    <state width="1874" height="511" key="GridCell.Tab.0.right/72.27.3768.1053@72.27.3768.1053" timestamp="1606514890779" />
+    <state width="1874" height="491" key="GridCell.Tab.1.bottom" timestamp="1606519572938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="491" key="GridCell.Tab.1.bottom/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1874" height="491" key="GridCell.Tab.1.center" timestamp="1606519572938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="491" key="GridCell.Tab.1.center/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1874" height="491" key="GridCell.Tab.1.left" timestamp="1606519572938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="491" key="GridCell.Tab.1.left/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state width="1874" height="491" key="GridCell.Tab.1.right" timestamp="1606519572938">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1874" height="491" key="GridCell.Tab.1.right/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519572938" />
+    <state x="182" y="121" width="1536" height="879" key="MergeDialog" timestamp="1606577943376">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="182" y="121" width="1536" height="879" key="MergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1606577943376" />
+    <state x="591" y="314" width="728" height="485" key="MultipleFileMergeDialog" timestamp="1606577943379">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="591" y="314" width="728" height="485" key="MultipleFileMergeDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1606577943379" />
+    <state x="545" y="300" width="843" height="514" key="NewModule_or_Project.wizard" timestamp="1606578593689">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="545" y="300" width="843" height="514" key="NewModule_or_Project.wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1606578593689" />
+    <state x="2686" y="477" width="387" height="133" key="ReplaceDuplicatesPrompt" timestamp="1606514546685">
+      <screen x="72" y="27" width="3768" height="1053" />
+    </state>
+    <state x="2686" y="477" width="387" height="133" key="ReplaceDuplicatesPrompt/72.27.3768.1053@72.27.3768.1053" timestamp="1606514546685" />
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor" timestamp="1606577435315">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="449" y="188" width="1022" height="737" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1606577435315" />
+    <state x="2609" y="270" width="540" height="524" key="StructurePopup" timestamp="1606519473136">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2609" y="270" width="540" height="524" key="StructurePopup/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606519473136" />
+    <state x="1396" y="253" width="524" height="524" key="extract.method.dialog" timestamp="1606522924458">
+      <screen x="72" y="27" width="1848" height="1053" />
+    </state>
+    <state x="1396" y="253" width="524" height="524" key="extract.method.dialog/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606522924458" />
+    <state x="3090" y="253" width="568" height="517" key="extract.method.dialog/72.27.3768.1053@72.27.3768.1053" timestamp="1606514544533" />
+    <state width="736" height="455" key="javadoc.popup.new" timestamp="1606573324154">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state width="736" height="455" key="javadoc.popup.new/0.27.1920.1053@0.27.1920.1053" timestamp="1606573324154" />
+    <state x="381" y="212" width="982" height="803" key="new project wizard" timestamp="1606574508397">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="381" y="212" width="982" height="803" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1606574508397" />
+    <state x="2301" y="190" key="new project wizard/72.27.1848.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606516420839" />
+    <state x="439" y="212" width="982" height="845" key="new project wizard/72.27.1848.1053/1920.0.1920.1080@72.27.1848.1053" timestamp="1606522200429" />
+    <state x="2196" y="189" width="982" height="824" key="new project wizard/72.27.3768.1053@72.27.3768.1053" timestamp="1606502873870" />
+    <state x="2544" y="245" key="run.anything.popup" timestamp="1606498965761">
+      <screen x="72" y="27" width="3768" height="1053" />
+    </state>
+    <state x="2544" y="245" key="run.anything.popup/72.27.3768.1053@72.27.3768.1053" timestamp="1606498965761" />
+    <state x="299" y="259" width="672" height="678" key="search.everywhere.popup" timestamp="1606577108207">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="299" y="259" width="672" height="678" key="search.everywhere.popup/0.27.1920.1053@0.27.1920.1053" timestamp="1606577108207" />
+    <state x="659" y="259" width="672" height="678" key="search.everywhere.popup/72.27.3768.1053@72.27.3768.1053" timestamp="1606507733543" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$USER_HOME$/.asdf/installs/java/adoptopenjdk-11.0.9+11/lib/src.zip!/java.base/java/util/concurrent/locks/ReentrantLock.java</url>
+          <line>266</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
